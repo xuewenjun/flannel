@@ -1,0 +1,1 @@
+FROM rancher/mirrored-flannelcni-flannel:v0.16.3
