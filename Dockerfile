@@ -1,1 +1,1 @@
-FROM quay.io/coreos/flannel:v0.16.3
+FROM docker pull rancher/flannel:v0.11.0
